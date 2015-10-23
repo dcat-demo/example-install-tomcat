@@ -1,4 +1,4 @@
-<username>/example-install-tomcat:
+dcatdemo/example-install-tomcat:
 
   Env:
     # Set the below enviornment variables for your environment
